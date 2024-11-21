@@ -1,0 +1,15 @@
+.text1{
+    text-align: center;
+    color: rgb(187, 44, 25);
+}
+.text2{
+    text-align: center;
+    color: royalblue;
+}
+h2,p{
+       text-align: center;
+    font-size: 23.5px;
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifn;
+}
